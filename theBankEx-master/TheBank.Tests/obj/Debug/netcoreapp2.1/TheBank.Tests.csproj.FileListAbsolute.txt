@@ -1,0 +1,17 @@
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/TheBank.Tests.deps.json
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/TheBank.Tests.runtimeconfig.json
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/TheBank.Tests.runtimeconfig.dev.json
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/TheBank.Tests.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/TheBank.Tests.pdb
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/TheBank_NetCore.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/bin/Debug/netcoreapp2.1/TheBank_NetCore.pdb
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/obj/Debug/netcoreapp2.1/TheBank.Tests.csprojAssemblyReference.cache
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/obj/Debug/netcoreapp2.1/TheBank.Tests.csproj.CoreCompileInputs.cache
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/obj/Debug/netcoreapp2.1/TheBank.Tests.AssemblyInfoInputs.cache
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/obj/Debug/netcoreapp2.1/TheBank.Tests.AssemblyInfo.cs
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/obj/Debug/netcoreapp2.1/TheBank.Tests.csproj.CopyComplete
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/obj/Debug/netcoreapp2.1/TheBank.Tests.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank.Tests/obj/Debug/netcoreapp2.1/TheBank.Tests.pdb

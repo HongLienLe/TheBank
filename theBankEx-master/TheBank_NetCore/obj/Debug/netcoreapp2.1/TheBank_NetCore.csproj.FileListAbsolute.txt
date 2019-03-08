@@ -1,0 +1,11 @@
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/bin/Debug/netcoreapp2.1/TheBank_NetCore.deps.json
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/bin/Debug/netcoreapp2.1/TheBank_NetCore.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/bin/Debug/netcoreapp2.1/TheBank_NetCore.pdb
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/obj/Debug/netcoreapp2.1/TheBank_NetCore.csproj.CoreCompileInputs.cache
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/obj/Debug/netcoreapp2.1/TheBank_NetCore.AssemblyInfoInputs.cache
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/obj/Debug/netcoreapp2.1/TheBank_NetCore.AssemblyInfo.cs
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/obj/Debug/netcoreapp2.1/TheBank_NetCore.dll
+/Users/hongle/Desktop/theBankEx-master/TheBank_NetCore/obj/Debug/netcoreapp2.1/TheBank_NetCore.pdb
